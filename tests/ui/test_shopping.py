@@ -1,4 +1,4 @@
-
+# End-to-end UI test covering login, shopping cart verification, and logout
 import pytest_check as check
 from playwright.sync_api import Page
 
